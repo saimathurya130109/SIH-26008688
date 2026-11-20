@@ -229,5 +229,15 @@ Our Farm2Market platform provides several benefits.
 Farm2Market aims to create a better agricultural supply chain by connecting farmers directly with consumers and bulk buyers. It improves farmers' earnings, provides affordable products to consumers, reduces food wastage and supports rural development. Overall, the solution promotes a smarter, more transparent and sustainable agricultural system.
 
 ## Research and References
+
+1. Information, Direct Access to Farmers, and Rural Market Performance in Central India (2010)
+- Author: Aparajita Goyal
+- Journal: American Economic Journal: Applied Economics
+- https://documents1.worldbank.org/curated/en/992671468049765574/pdf/WPS5315.pdf?utm_source=chatgpt.com
+2. Machine Learning for Demand Forecasting in the Physical Internet (2021)
+- Authors: Anirut Kantasa-arda et al.
+- Journal: International Journal of Production Research
+- https://ideas.repec.org/a/taf/tprsxx/v59y2021i24p7491-7515.html?utm_source=chatgpt.com
+
 Remove These Lines
 1. Details / Links of the reference and research work
